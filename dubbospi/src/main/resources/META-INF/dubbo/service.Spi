@@ -1,0 +1,2 @@
+#第一个为事件值，此处注意配置文件的文件名要等于Spi接口的路径名
+defaultSpi=service.impl.DefaultSpi
