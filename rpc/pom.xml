@@ -28,7 +28,7 @@
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
         <netty.version>4.1.42.Final</netty.version>
         <jackson.version>2.10.0.pr3</jackson.version>
-        <zookeeper.version>3.4.14</zookeeper.version>
+        <zookeeper.version>3.7.2</zookeeper.version>
     </properties>
 
     <dependencies>
